@@ -64,9 +64,9 @@ The output file, ping_results.xlsx, will look like this:
 
 
 ## Troubleshooting
-Column Error: If the selected Excel file does not have a column named IP Address, the script will raise an error.
+**Column Error:** If the selected Excel file does not have a column named IP Address, the script will raise an error.
 
-Permissions: If running on Windows, you may need administrator permissions to run ping commands.
+**Permissions:** If running on Windows, you may need administrator permissions to run ping commands.
 
 ## License
 This project is open-source and free to use.
